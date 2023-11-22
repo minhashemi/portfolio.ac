@@ -69,5 +69,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 📧 Email: [am.hashemi@pm.me](mailto:am.hashemi@pm.me)
+
 ⛓️ Links: [lu.ma/minhashemi](https://lu.ma/minhashemi)
+
 🌐 Portfolio: [mech.sharif.edu/~amin.hashemi](http://mech.sharif.edu/~amin.hashemi)
